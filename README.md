@@ -8,7 +8,7 @@ O programa faz uma contagem de 1 até 20, classificando cada número como:
 
  - "número pequeno" (menor que 10)
 
- -"chegamos no 10!"
+ - "chegamos no 10!"
 
 - "número grande" (maior que 10)
 
